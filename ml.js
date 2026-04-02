@@ -23,7 +23,6 @@ let vendas = [
   150,160
 ];
 
-// Agrupar por produto
 let dados = {};
 
 for (let i = 0; i < produtos.length; i++) {
